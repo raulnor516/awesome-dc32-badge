@@ -25,8 +25,8 @@ A respository of information and links to promote support and continued developm
 --------------------
 ## FAQ
 
-Q. My badge shows "No valid FAT partition found" when I try to load other GB/GBC ROMs?
-A. The stock SD cards provided by DEFCOM are very poor quality and have a high failure rate. You can attempt to format the SD card by using the [official SD formatter found here](https://www.sdcard.org/downloads/formatter/), and manually add folders named 'ROM' and 'SAVE' to the root of the SD card. If the badge can still not detect it, you will need to purchase a third party SD card and format it with a FAT# filesystem (not exFAT).  
+- Q. My badge shows "No valid FAT partition found" when I try to load other GB/GBC ROMs?
+- A. The stock SD cards provided by DEFCOM are very poor quality and have a high failure rate. You can attempt to format the SD card by using the [official SD formatter found here](https://www.sdcard.org/downloads/formatter/), and manually add folders named 'ROM' and 'SAVE' to the root of the SD card. If the badge can still not detect it, you will need to purchase a third party SD card and format it with a FAT# filesystem (not exFAT).  
 
 ## Guides
 
