@@ -5,6 +5,7 @@ A respository of information and links to promote support and continued developm
 
 ## Table of contents
 
+- [FAQ]($faq)
 - [Guides](#guides)
   - [General Guides](#general)
 - [Official Releases](#official)
@@ -22,6 +23,11 @@ A respository of information and links to promote support and continued developm
 - [License](#license)
 
 --------------------
+## FAQ
+
+Q. My badge shows "No valid FAT partition found" when I try to load other GB/GBC ROMs?
+A. The stock SD cards provided by DEFCOM are very poor quality and have a high failure rate. You can attempt to format the SD card by using the [official SD formatter found here](https://www.sdcard.org/downloads/formatter/), and manually add folders named 'ROM' and 'SAVE' to the root of the SD card. If the badge can still not detect it, you will need to purchase a third party SD card and format it with a FAT# filesystem (not exFAT).  
+
 ## Guides
 
 ### General
@@ -52,7 +58,9 @@ Firmwares released by DmitryGR. No licenses assumed or granted unless granted di
 
 ## Community
 
-### <a id="commfirmware" />Firmware
+**[`^        back to top        ^`](#awesome-dc32-badge)**
+
+### <a id="commfirmware" /> Firmware
 
 - [DEFCON 32 Firmware from jaku](https://github.com/jaku/DEFCON-32-BadgeFirmware) - Provides custom firmware for DEFCON badges, including MoonMaster, NoRom, AllItems, and Original, with detailed flashing instructions for UF2 and BIN formats.
 
@@ -68,8 +76,12 @@ Firmwares released by DmitryGR. No licenses assumed or granted unless granted di
 
 ## Resources
 
+**[`^        back to top        ^`](#awesome-dc32-badge)**
+
 - [GBVideoPlayer2](https://github.com/LIJI32/GBVideoPlayer2) - Enhances GBVideoPlayer with higher resolution, 3-bit stereo PCM audio, video compression, and easier encoding, requiring specific hardware or accurate emulators for playback.
 
 ## Websites
+
+**[`^        back to top        ^`](#awesome-dc32-badge)**
 
 - [DEF ROM Firmware Generator](https://defrom.lol/) - Upload Game Boy or Game Boy Color ROMs to create custom firmware in UF2 or BIN format.
