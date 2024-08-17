@@ -54,11 +54,11 @@ Firmwares released by DmitryGR. No licenses assumed or granted unless granted di
 
 ### <a id="commfirmware" />Firmware
 
-- [DEFCON 32 Firmware from jaku](https://github.com/jaku/DEFCON-32-BadgeFirmware): Provides custom firmware for DEFCON badges, including MoonMaster, NoRom, AllItems, and Original, with detailed flashing instructions for UF2 and BIN formats.
+- [DEFCON 32 Firmware from jaku](https://github.com/jaku/DEFCON-32-BadgeFirmware) - Provides custom firmware for DEFCON badges, including MoonMaster, NoRom, AllItems, and Original, with detailed flashing instructions for UF2 and BIN formats.
 
 ### <a id="commsoftware" /> Software
 
-- [DEFCON32 Badge Doom](https://github.com/kilograham/rp2040-doom/releases/tag/defcon32_v0): Provides instructions to install Doom on the DEFCON 32 Badge, including steps to back up and restore original firmware, and details on gameplay and button configurations.
+- [DEFCON32 Badge Doom](https://github.com/kilograham/rp2040-doom/releases/tag/defcon32_v0) - Provides instructions to install Doom on the DEFCON 32 Badge, including steps to back up and restore original firmware, and details on gameplay and button configurations.
 
 ### <a id="commresources" /> Resources
 
@@ -68,8 +68,8 @@ Firmwares released by DmitryGR. No licenses assumed or granted unless granted di
 
 ## Resources
 
-- [GBVideoPlayer2](https://github.com/LIJI32/GBVideoPlayer2): Enhances GBVideoPlayer with higher resolution, 3-bit stereo PCM audio, video compression, and easier encoding, requiring specific hardware or accurate emulators for playback.
+- [GBVideoPlayer2](https://github.com/LIJI32/GBVideoPlayer2) - Enhances GBVideoPlayer with higher resolution, 3-bit stereo PCM audio, video compression, and easier encoding, requiring specific hardware or accurate emulators for playback.
 
 ## Websites
 
-- [DEF ROM Firmware Generator](https://defrom.lol/): Upload Game Boy or Game Boy Color ROMs to create custom firmware in UF2 or BIN format.
+- [DEF ROM Firmware Generator](https://defrom.lol/) - Upload Game Boy or Game Boy Color ROMs to create custom firmware in UF2 or BIN format.
