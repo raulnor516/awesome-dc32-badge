@@ -15,7 +15,7 @@ A respository of information and links to promote support and continued developm
 - [Community Developed](#community)
   - [Firmware](#commfirmware)
   - [Software](#commsoftware)
-  - [Resources](#commresources)
+  - [Physical Modifications](#commmods)
 - [External links](#external-links)
 - [Communities / Forums](#communities--forums)
 - [Repositories](#repositories)
