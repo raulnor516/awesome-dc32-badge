@@ -48,7 +48,7 @@ Various resources from around the community to help with troubleshooting, develo
 
 Firmwares released by DmitryGR. No licenses assumed or granted unless granted directly by the author.
 
-- [uGB 1.3.1g Compiled](https://discord.com/channels/867438418212683796/1262488625799495732/1271177820298674280) - Stock firmware originally installed on the badges
+- [uGB 1.3.1g Compiled](https://discord.com/channels/867438418212683796/1262488625799495732/1271177820298674280) - Stock firmware originally installed on the badges, saves are not functional on this firmware. 
 - [uGB 1.3.1g Source Code](https://cdn.discordapp.com/attachments/1262488625799495732/1271175312012480512/defcon_badge.tar.bz2?ex=66c0edc3&is=66bf9c43&hm=174d8e7c02c12762ec74cde20103b29705f163aeca7854a19823e1f5150bee18&) 
 - [uGB 1.5 Compiled](http://dmitry.gr/images/defcon_update_1.5.0.tar.bz2) - Official patch that fixes game saves and downclocks the SD card.
 - [uGB 1.5 Source Code](http://dmitry.gr/images/defcon_code_1.5.0.tar.bz2)
