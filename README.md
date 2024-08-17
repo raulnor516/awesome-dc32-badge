@@ -60,7 +60,7 @@ Firmwares released by DmitryGR. No licenses assumed or granted unless granted di
 
 - [DEFCON32 Badge Doom](https://github.com/kilograham/rp2040-doom/releases/tag/defcon32_v0): Provides instructions to install Doom on the DEFCON 32 Badge, including steps to back up and restore original firmware, and details on gameplay and button configurations.
 
-### <a id-"commresources" /> Resources
+### <a id="commresources" /> Resources
 
 - 3D models
   - [DEFCON 32 Badge Buttons](https://www.printables.com/model/977477-defcon-32-badge-buttons)
