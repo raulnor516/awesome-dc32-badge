@@ -32,7 +32,7 @@ Various resources from around the community to help with troubleshooting, develo
 
 - [DC32 Badge Hacking Google Doc](https://docs.google.com/document/d/1Jff1UbKaRGoHoAug1c0r6a4Y-MYruvgVORGG8c63sNQ) - The purpose of this document is to be a collective note gathering location for the DC32 Badge Challenge
 - [Gameboy Interface to access Badge Features](https://docs.google.com/document/d/1COY5n0HhBcBq7ILwsKtOjV-_0-arNPkk_qBH9PI9fms) - GB hardware has a few unused IO regs in the IO reg range (0xFF00..0xFF7F). They are reused in this badge to expose extra functionality that GB-proper lacks. This document details how to use these features.
-- [DC32 Badge Hacking Discord](https://discord.gg/z7HvmSQx)
+- [DC32 Badge Hacking Discord](https://discord.gg/z7HvmSQx) - Most comprehensive resource on badge troubleshooting, custom development, and discussion. Make sure you check the pinned posts and use the search feature!
 
 ## Official
 
