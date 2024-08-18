@@ -63,6 +63,7 @@ Firmwares released by DmitryGR. No licenses assumed or granted unless granted di
 ### <a id="commfirmware" /> Firmware
 
 - [DEFCON 32 Firmware from jaku](https://github.com/jaku/DEFCON-32-BadgeFirmware) - Provides custom firmware for DEFCON badges, including MoonMaster, NoRom, AllItems, and Original, with detailed flashing instructions for UF2 and BIN formats.
+- [DEFCON 32 Badge - MicroPython PoC](https://github.com/Phaeilo/dc32_badge_micropython) - Some example code to drive the hardware of the Defcon 32 badge with MicroPython.
 
 ### <a id="commsoftware" /> Software
 
