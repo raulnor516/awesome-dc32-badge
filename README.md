@@ -56,6 +56,10 @@ Firmwares released by DmitryGR. No licenses assumed or granted unless granted di
 - [rePalm NO RAM MOD](https://dmitry.gr/images/rePalmDefcon_NOPSRAM.bin) - Stock badge can only use a minimal build as RP2350’s 512KB of RAM is rather tight for PalmOS 5.2 with a  320x240 display. To save RAM, the display is limited to 8bpp
 - [rePalm PSRAM MOD](https://dmitry.gr/images/rePalmDefcon_withPSRAM.bin) - Badges with a 8MByte APMemory PSRAM installed (there is a footprint on the board, go wild) gets a fuller build with support for games, video playback, and 16bpp screen.
 
+### Resources
+
+- [DEF CON Media Server Badge Resources](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20badge/)
+
 ## Community
 
 **[`^        back to top        ^`](#awesome-dc32-badge)**
