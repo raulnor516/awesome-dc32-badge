@@ -72,7 +72,7 @@ Firmwares released by DmitryGR. No licenses assumed or granted unless granted di
 
 ### <a id="commsoftware" /> Software
 
-- [DEFCON32 Badge Doom](https://github.com/kilograham/rp2040-doom/releases/tag/defcon32_v0) - Provides instructions to install Doom on the DEFCON 32 Badge, including steps to back up and restore original firmware, and details on gameplay and button configurations.
+- [DEFCON32 Badge Doom](https://github.com/kilograham/rp2040-doom/releases/tag/defcon32_v1) - Provides instructions to install Doom on the DEFCON 32 Badge, including steps to back up and restore original firmware, and details on gameplay and button configurations.
 - [CalvinLL Flashy Rom](https://github.com/Calvin-LL/defcon-32-badge-flashy-rom) - This is a simple ROM for the DEF CON 32 Badge that makes the LEDs flash in random colors.
 - [BSoDEFCON ROM](https://github.com/rootabeta/BSoDEFCON) - A little joke Blue Screen of Death simulator (BSOD) for the DEF CON 32 badge, with various versions of the screen and different operating systems - plus various fancy LED flashing modes.
 
