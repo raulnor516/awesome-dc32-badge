@@ -91,4 +91,6 @@ Firmwares released by DmitryGR. No licenses assumed or granted unless granted di
 
 ## Communities / Forums
 
+**[`^        back to top        ^`](#awesome-dc32-badge)**
+
 - [DC32 Badge Hacking Discord](https://discord.gg/z7HvmSQx) - Most comprehensive resource on badge troubleshooting, custom development, and discussion. Make sure you check the pinned posts and use the search feature!
