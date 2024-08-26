@@ -70,6 +70,7 @@ Firmwares released by DmitryGR. No licenses assumed or granted unless granted di
 - [DEFCON 32 Firmware from jaku](https://github.com/jaku/DEFCON-32-BadgeFirmware) - Provides custom firmware for DEFCON badges, including MoonMaster, NoRom, AllItems, and Original, with detailed flashing instructions for UF2 and BIN formats.
 - [DEFCON32 Badge Doom](https://github.com/kilograham/rp2040-doom/releases/tag/defcon32_v1) - Provides instructions to install Doom on the DEFCON 32 Badge, including steps to back up and restore original firmware, and details on gameplay and button configurations.
 - [DEFCON 32 Badge - MicroPython PoC](https://github.com/Phaeilo/dc32_badge_micropython) - Some example code to drive the hardware of the Defcon 32 badge with MicroPython.
+- [DEFCON 32 Badge Color Shifting Demo](https://github.com/skintigh/defcon32_badge_demo) - Author ported a demo they wrote in the 1990s in Turbo Pascal to run on this year's badge.
 
 ### <a id="commsoftware" /> Software
 
